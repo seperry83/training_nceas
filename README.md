@@ -7,3 +7,5 @@ Training repo for github
 adding more stuff
 
 cats are **super** cool
+
+dogs are okay
